@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary-color: #fff;
+    --secondary-color: #000;
+    --primary-text-color: #26205f;
+    --primary-link-color: #646475;
+    --secondary-btn-color: #5992ec;
+  }
+
+  .item-img {
+    width: 20px;
+  }
